@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Studying Front-End since 2022<br>📚 I'm currently learning NextJS</p>
+<p align="left">✨ Working on Front-End since 2022<br>📚 I'm currently learning NextJS</p>
 
 ###
 
