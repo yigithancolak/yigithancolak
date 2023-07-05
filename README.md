@@ -1,5 +1,8 @@
 ### <div align="center">I'm Yigithan, a full-time front-end developer 👨‍💻</div>  
-  
+
+  <br/>
+
+  <br/>
 
 - 🔭 I’m currently working on my [New Next.js Project](https://next-todo-prisma.vercel.app/)  
   
