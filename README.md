@@ -16,4 +16,4 @@
 - **Testing:** Cypress
 - **Database & ORM:** Supabase, Prisma
 - **Tools & Version Control:** Git, Azure DevOps
-- **Helper Libraries:** NextAuth, Tanstack React Query, Tanstack Table, React Hook Form, Yup
+- **Other:** NextAuth, Tanstack React Query, Tanstack Table, React Hook Form, Yup
