@@ -14,6 +14,6 @@
 - **Frameworks & Libraries:** React, Next.js, Express.js
 - **Styling:** Sass, SCSS, MaterialUI, TailwindCSS, Framer-Motion
 - **Testing:** Cypress
-- **Database & ORM:** Supabase, Prisma
-- **Tools & Version Control:** Git, Azure DevOps
+- **Database & ORM:** Supabase, Prisma, Mongoose
+- **Tools & Version Control:** Git
 - **Other:** NextAuth, Tanstack React Query, Tanstack Table, React Hook Form, Yup
