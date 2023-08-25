@@ -11,7 +11,7 @@
 ### 🛠 Technical Skills
 
 - **Programming Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Next.js
+- **Frameworks & Libraries:** React, Next.js, Express.js
 - **Styling:** Sass, SCSS, MaterialUI, TailwindCSS, Framer-Motion
 - **Testing:** Cypress
 - **Database & ORM:** Supabase, Prisma
