@@ -1,6 +1,6 @@
 # Hi, I'm Yiğithan Çolak 👋
 
-## Front-End Developer 💻
+Developer 💻
 
 ### 📬 Get in Touch
 
@@ -11,7 +11,7 @@
 ### 🛠 Technical Skills
 
 - **Programming Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Next.js, Express.js
+- **Frameworks & Libraries:** React, Next.js, Express.js, Nest.js
 - **Styling:** Sass, SCSS, MaterialUI, TailwindCSS, Framer-Motion
 - **Testing:** Cypress
 - **Database & ORM:** Supabase, Prisma, Mongoose
