@@ -10,7 +10,7 @@ Developer 💻
 
 ### 🛠 Technical Skills
 
-- **Programming Languages:** JavaScript, TypeScript, Go, HTML5, CSS3
+- **Programming Languages:** JavaScript, TypeScript, Go, CSS3
 - **Frameworks & Libraries:** React, Next.js, Express.js, Nest.js
 - **Styling:** Sass, SCSS, MaterialUI, TailwindCSS, Framer-Motion
 - **Testing:** Cypress
