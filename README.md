@@ -11,8 +11,8 @@ Developer 💻
 ### 🛠 Technical Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Go, CSS3
-- **Frameworks & Libraries:** React, Next.js, Express.js, Nest.js
+- **Frameworks & Libraries:** React, Next.js, Express.js, Nest.js, Gin
 - **Styling:** Sass, SCSS, MaterialUI, TailwindCSS, Framer-Motion
 - **Testing:** Cypress
-- **Database & ORM:** SQL, TypeORM, Supabase, Prisma, Mongoose
+- **Database & ORM:** PostgreSQL, TypeORM, Supabase, Prisma, Mongoose, sqlc, sqlx
 - **Tools & Version Control:** Git
